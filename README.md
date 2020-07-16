@@ -1,0 +1,2 @@
+# INVISIBLE-CLOAK
+We always wonder how Harry Potter becomes invisible using a cloth. There may be some sort of magic? Is that so? The code is decoded. It can be done using  OpenCV. Make sure that the input video is your recorded video with any color cloth(here I have taken red cloth). The output video generated will be the same as the input, but our colored cloth will become invisible and everything under that will become invisible. If you want to take a different colored cloth, change the values of (H, S, V) in the code.
