@@ -1,3 +1,7 @@
+<*** note: Do use mobile camera for better performance***>
+
+
+
 import cv2
 import numpy as np
 import time
@@ -15,7 +19,7 @@ out1 = cv2.VideoWriter('output1.avi', fourcc, 20.0, (1920, 1080))   # (output vi
 
 # taking video.mp4 as input.
 # Make your path according to your needs
-capture_video = cv2.VideoCapture("C:\\Users\\muskan\\Desktop\\HI.mp4")
+capture_video = cv2.VideoCapture("input.mp4")
 
 
 # give time to camera to warm up
