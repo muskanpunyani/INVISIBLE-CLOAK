@@ -1,4 +1,4 @@
-<*** note: Do use mobile camera for better performance***>
+<*** note: Please use mobile camera for better performance***>
 
 
 
